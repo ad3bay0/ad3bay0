@@ -1,4 +1,4 @@
-### Hi there 👋
+### Idea <-> Builder <-> Product <-> Consumer
 
 <!--
 **ad3bay0/ad3bay0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
